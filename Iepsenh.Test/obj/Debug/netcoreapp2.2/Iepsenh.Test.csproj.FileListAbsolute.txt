@@ -1,0 +1,14 @@
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Iepsenh.Test.deps.json
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Iepsenh.Test.runtimeconfig.json
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Iepsenh.Test.runtimeconfig.dev.json
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Iepsenh.Test.dll
+D:\Github\Iepsenh.Test\Iepsenh.Test\bin\Debug\netcoreapp2.2\Iepsenh.Test.pdb
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.csprojAssemblyReference.cache
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.csproj.CoreCompileInputs.cache
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.AssemblyInfoInputs.cache
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.AssemblyInfo.cs
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.dll
+D:\Github\Iepsenh.Test\Iepsenh.Test\obj\Debug\netcoreapp2.2\Iepsenh.Test.pdb
