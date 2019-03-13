@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Github\\Iepsenh.Test\\Iepsenh.Test\\Iepsenh.Test.csproj",
+    "projectUniqueName": "/Users/lion/Documents/IPSENH/Iepsenh.Test/Iepsenh.Test/Iepsenh.Test.csproj",
     "projectName": "Iepsenh.Test",
-    "projectPath": "D:\\Github\\Iepsenh.Test\\Iepsenh.Test\\Iepsenh.Test.csproj",
-    "outputPath": "D:\\Github\\Iepsenh.Test\\Iepsenh.Test\\obj\\",
+    "projectPath": "/Users/lion/Documents/IPSENH/Iepsenh.Test/Iepsenh.Test/Iepsenh.Test.csproj",
+    "outputPath": "/Users/lion/Documents/IPSENH/Iepsenh.Test/Iepsenh.Test/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
