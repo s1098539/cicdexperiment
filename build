@@ -1,5 +1,6 @@
 #!/bin/bash
 
+brew install dotnet
 dotnet restore
 dotnet build
 dotnet test
